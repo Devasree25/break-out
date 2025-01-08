@@ -1,0 +1,37 @@
+body{
+    background-color: yellow;
+}
+h1{
+    margin-left: 645px;
+    margin-top: 20px;
+}
+.grid{
+    position: absolute;
+    width: 560px;
+    height: 300px;
+    border: solid 10px white;
+    margin-top: 100px;
+    margin-left: 445px;
+}
+  
+.user{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: blueviolet;
+}
+  
+.block{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: blue;
+}
+  
+.ball{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: red;
+}
